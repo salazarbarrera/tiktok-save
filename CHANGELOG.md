@@ -1,7 +1,7 @@
 <!-- CHANGELOG SPLIT MARKER -->
 
 <a name="2.5"></a>
-## 2.5 (2022-07-8)
+## 2.5 (2022-07-08)
 
 
 ### New things
@@ -12,7 +12,7 @@
 <!-- CHANGELOG SPLIT MARKER -->
 
 <a name="2.1"></a>
-## 2.0 (2021-05-26)
+## 2.1 (2021-08-17)
 
 
 ### New things
